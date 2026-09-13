@@ -1,0 +1,16 @@
+job_id,job_title,company,location,skills,salary,experience,job_type
+1,Software Developer,TCS,Hyderabad,"Java, SQL, React",6 LPA,0-2 years,Full Time
+2,Web Developer,Infosys,Bangalore,"HTML, CSS, JavaScript",5 LPA,0-1 years,Full Time
+3,Data Analyst,Wipro,Pune,"Python, SQL, Excel",5.5 LPA,1-2 years,Full Time
+4,Frontend Developer,Accenture,Hyderabad,"React, JavaScript, CSS",7 LPA,0-2 years,Full Time
+5,Backend Developer,Cognizant,Chennai,"Node.js, Express, SQL",6.5 LPA,1-2 years,Full Time
+6,Python Developer,Tech Mahindra,Pune,"Python, Django, SQL",6 LPA,0-2 years,Full Time
+7,Java Developer,Infosys,Hyderabad,"Java, Spring, SQL",6.2 LPA,1-2 years,Full Time
+8,UI Developer,TCS,Bangalore,"HTML, CSS, React",5.8 LPA,0-1 years,Full Time
+9,Software Engineer,Wipro,Chennai,"Python, Java, SQL",7 LPA,0-2 years,Full Time
+10,Full Stack Developer,Accenture,Hyderabad,"React, Node.js, MySQL",8 LPA,1-3 years,Full Time
+11,Frontend Developer,Infosys,Pune,"React, HTML, CSS",6 LPA,0-2 years,Full Time
+12,Backend Developer,TCS,Hyderabad,"Node.js, Express, MySQL",7 LPA,1-3 years,Full Time
+13,Data Scientist,Wipro,Bangalore,"Python, Machine Learning, SQL",8 LPA,1-3 years,Full Time
+14,Software Engineer,Cognizant,Chennai,"Java, SQL, Spring Boot",6.5 LPA,0-2 years,Full Time
+15,React Developer,Accenture,Hyderabad,"React, JavaScript, HTML",7.5 LPA,0-2 years,Full Time
